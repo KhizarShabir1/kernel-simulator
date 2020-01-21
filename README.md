@@ -1,12 +1,10 @@
 # kernel-simulator
-#Project Objective:
-The main objective of this project is to simulate process management module of OS kernel. We
-will achieve this using our existing knowledge that we have learned in class as well as in labs.
-For this purpose Linux system calls such as fork ( ) , pipe( ), wait( ), signal( ) and alarm( ) can be
-used.
+# Project Objective
+The main objective of this project is to simulate process management module of OS kernel. 
+For this purpose Linux system calls such as fork ( ) , pipe( ), wait( ), signal( ) and alarm( ) are used.
 
-#Project Statement:
-You have to simulate following functions of Process management module: 
+# Project Statement:
+We have to simulate following functions of Process management module: 
 • Process Creation 
 • Provide Environment to simulate execution of created processes. 
 • Simulate exec ( ) system call. i.e. replace the current process instructions and related data
